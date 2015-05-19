@@ -1,4 +1,4 @@
-# jQueryMobile_Panels
+# jQuery Mobile Panels
 ##Using sliding Panels in jQuery Mobile
 ####By Carmel Schvartzman
 
