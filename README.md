@@ -3,9 +3,9 @@
 ####By Carmel Schvartzman
 
 This jQuery Mobile code is the companion for the following Tutorial:
- http://themvcclub.blogspot.com/2015/05/jquerymobile-using-ajax-to-load-json-data-to-table.html
+ http://themvcclub.blogspot.com/2015/05/jquerymobile-panels-for-android-and-blackberry.html
 
-<a href="http://themvcclub.blogspot.com/2015/05/jquerymobile-using-ajax-to-load-json-data-to-table.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
+<a href="http://themvcclub.blogspot.com/2015/05/jquerymobile-panels-for-android-and-blackberry.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
 
 
 <img alt="jQueryMobile Panels For Android        " border="0" height="516" src="http://4.bp.blogspot.com/-6MQ9efwuuFA/VVr9SFOjCNI/AAAAAAAAK28/YFNOE_uj13Y/s540/1.png" width="570" />
